@@ -6,8 +6,6 @@ Use FixedPoint_LUT to replace highly runtime intensive calculation times.
 
 FixedPoint_LUT uses LUTs to search for values in an array and make simple calculations rather then calculate complex mathematical functions.
 
----
-
 Repository Contents
 -------------------
 * **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE.
