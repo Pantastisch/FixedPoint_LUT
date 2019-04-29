@@ -1,0 +1,19 @@
+{
+    "name": "FixedPoint_LUT",
+    "keywords": "fixedpoint, LUT, lookup, table, maths, fixed-point",
+    "description": "Use FixedPoint_LUT to replace highly runtime intensive calculation times. FixedPoint_LUT uses LUTs to search for values in an array and make simple calculations rather then calculate complex mathematical functions",
+    "homepage": "https://github.com/Pantastisch/FixedPoint_LUT",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/Pantastisch/FixedPoint_LUT"
+    },
+    "version": "1.0.0",
+    "authors": 
+    {
+      "name": "Pantastisch",
+      "url": "https://github.com/Pantastisch/FixedPoint_LUT"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+  }

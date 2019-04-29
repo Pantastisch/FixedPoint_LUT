@@ -1,0 +1,38 @@
+################################################################################
+# Syntax Coloring Map FixedPoint_LUT (Public)
+################################################################################
+
+################################################################################
+# Datatypes (KEYWORD1)
+################################################################################
+LUT					KEYWORD1
+LUT_Error_t			KEYWORD1
+LUT_Locking_Error_t	KEYWORD1
+LUT_Axis_t			KEYWORD1
+LUT_Element_t		KEYWORD1
+LUT_Elements_t		KEYWORD1
+
+################################################################################
+# Methods and Functions (KEYWORD2)
+################################################################################
+calcData	KEYWORD2
+setVector	KEYWORD2
+Lock		KEYWORD2
+Locked		KEYWORD2
+
+################################################################################
+# Constants (LITERAL1)
+################################################################################
+LUT_ERROR_NO_ERROR						LITERAL1
+LUT_ERROR_NULLPOINTER_EXCEPTION			LITERAL1
+LUT_ERROR_AXIS_NOT_SPECIFIED			LITERAL1
+LUT_ERROR_DEVISION_BY_ZERO				LITERAL1
+LUT_ERROR_NOT_LOCKED					LITERAL1
+
+LUT_LOCKING_ERROR_NO_ERROR				LITERAL1
+LUT_LOCKING_ERROR_DIMENSION_MISMATCH	LITERAL1
+LUT_LOCKING_ERROR_VECTOR_X_MISSING		LITERAL1
+LUT_LOCKING_ERROR_VECTOR_Y_MISSING		LITERAL1
+
+LUT_AXIS_X								LITERAL1
+LUT_AXIS_Y								LITERAL1
